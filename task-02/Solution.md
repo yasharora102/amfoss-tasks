@@ -230,7 +230,8 @@ __5__ - Make a file called ```Location-Coordinate.txt``` formed from the combina
 cat North.txt East.txt > Location-Coordinate.txt
 ```
 # Screenshot
-<img src = "https://dl.dropboxusercontent.com/s/mz731rdvd3a7rzu/Screen%20Shot%202021-10-18%20at%206.09.54%20PM.png?dl=0">
+<img src = "https://dl.dropboxusercontent.com/s/npo3ig0pp2j73xz/task-02-map.png?dl=0">
+
 
 # Git Commands
 
