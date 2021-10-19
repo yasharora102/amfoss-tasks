@@ -18,5 +18,5 @@ Task-10|CS50|Till Lecture 5
 Task-11|Poster Design|Not Attempted till yet
 Task-12|Make the Block|Not Attempted till yet
 Task-13|Circuit Design|Not Attempted till yet
-Task-14|Bandit|Completed - Not pushed yet
+Task-14|Bandit|Completed
 Task-15|Project Euler|Not Attempted till yet
