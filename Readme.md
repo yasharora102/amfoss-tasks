@@ -8,15 +8,15 @@
 [Task-01](https://github.com/yasharora102/amfoss-tasks/tree/main/task-01)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/yasharora102/amfoss-tasks/tree/main/task-02)|Linux and Git - Coordinates|Completed
 Task-03|Programming|Working
-Task-04|Aerglo Mars|Not Attempted till yet
-Task-05|Let me C|Not Attempted till yet
-Task-06|Flutter based UI task|Not Attempted till yet
+Task-04|Aerglo Mars|Done (Not pushed yet)
+Task-05|Let me C|Working (On Hold)
+Task-06|Flutter based UI task|Working (On Hold)
 Task-07|Rich Scraper|Not Attempted till yet
-Task-08|JSExplorer|Not Attempted till yet
+Task-08|JSExplorer|Working
 Task-09|Personal Website|Not Attempted till yet
 Task-10|CS50|Till Lecture 5
 Task-11|Poster Design|Not Attempted till yet
 Task-12|Make the Block|Not Attempted till yet
 Task-13|Circuit Design|Not Attempted till yet
 Task-14|Bandit|Completed
-Task-15|Project Euler|Not Attempted till yet
+Task-15|Project Euler|Working
