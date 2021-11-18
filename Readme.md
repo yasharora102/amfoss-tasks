@@ -14,8 +14,9 @@ Task-06|Flutter based UI task|On Hold
 Task-07|Rich Scraper|Working
 Task-08|JSExplorer|Done (Not pushed yet)
 Task-09|Personal Website|Working
-Task-10|CS50|Till Lecture 5
+Task-10|CS50|Done (Not pushed yet)
 [Task-11](https://github.com/yasharora102/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
+Task-12|BlockChain|Not Attempted till yet
 Task-13|Circuit Design|Not Attempted till yet
 [Task-14](https://github.com/yasharora102/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 Task-15|Project Euler|Working
