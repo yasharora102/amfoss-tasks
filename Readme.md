@@ -1,5 +1,5 @@
 # Yash Arora
-###### Hey there everyone (or whomsoever is reading) I'm Yash from Prayagraj and I'm a freasher @ Amrita Vishwa Vidyapeetham, Amritapuri Campus (EAC 2021).
+###### Hey there everyone (or whomsoever is reading) I'm Yash from Prayagraj and I'm a freasher @ Amrita Vishwa Vidyapeetham, Amritapuri Campus (EAC 2025).
 ###### This my current progress with the tasks (updated daily)
 &nbsp;
 **Tasks**|**Description**|**Status**
@@ -9,10 +9,10 @@
 [Task-02](https://github.com/yasharora102/amfoss-tasks/tree/main/task-02)|Linux and Git - Coordinates|Completed
 [Task-03](https://github.com/yasharora102/amfoss-tasks/tree/main/task-03)|Programming|Working
 [Task-04](https://github.com/yasharora102/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Completed
-Task-05|Let me C|Working (On Hold)
-Task-06|Flutter based UI task|On Hold
-Task-07|Rich Scraper|Working
-Task-08|JSExplorer|Done (Not pushed yet)
+[Task-05](https://github.com/yasharora102/amfoss-tasks/tree/main/task-05)|Let me C|Working (On Hold)
+[Task-06](https://github.com/yasharora102/amfoss-tasks/tree/main/task-06)|Flutter based UI task|On Hold
+[Task-07](https://github.com/yasharora102/amfoss-tasks/tree/main/task-07)|Rich Scraper|Working
+[Task-08](https://github.com/yasharora102/amfoss-tasks/tree/main/task-08)|JSExplorer|Done (Not pushed yet)
 Task-09|Personal Website|Working
 Task-10|CS50|Done (Not pushed yet)
 [Task-11](https://github.com/yasharora102/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
