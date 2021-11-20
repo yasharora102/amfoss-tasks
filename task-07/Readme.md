@@ -1,3 +1,8 @@
+This task was one for the books. After working on it for 4 days I realised that **colly** can't be used with **JS** so I had to go with **geziyor** which also took 
+quite a while to implement. In the end, was quite exhausting but gave a good sense of satisfaction.
+
+<h1>Table</h1>
+
 Name|Age|Country|Networth|Source
 ---------------|---------------|---------------|---------------|---------------
 Elon Musk|50|United States|$286.7 B|Tesla, SpaceX
