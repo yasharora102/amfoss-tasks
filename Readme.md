@@ -9,10 +9,10 @@
 [Task-02](https://github.com/yasharora102/amfoss-tasks/tree/main/task-02)|Linux and Git - Coordinates|Completed
 [Task-03](https://github.com/yasharora102/amfoss-tasks/tree/main/task-03)|Programming|Working
 [Task-04](https://github.com/yasharora102/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Completed
-[Task-05](https://github.com/yasharora102/amfoss-tasks/tree/main/task-05)|Let me C|Working (On Hold)
-[Task-06](https://github.com/yasharora102/amfoss-tasks/tree/main/task-06)|Flutter based UI task|On Hold
-[Task-07](https://github.com/yasharora102/amfoss-tasks/tree/main/task-07)|Rich Scraper|Working
-[Task-08](https://github.com/yasharora102/amfoss-tasks/tree/main/task-08)|JSExplorer|Done (Not pushed yet)
+[Task-05](https://github.com/yasharora102/amfoss-tasks/tree/main/task-05)|Let me C|Completed
+[Task-06](https://github.com/yasharora102/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Failed
+[Task-07](https://github.com/yasharora102/amfoss-tasks/tree/main/task-07)|Rich Scraper|Completed
+[Task-08](https://github.com/yasharora102/amfoss-tasks/tree/main/task-08)|JSExplorer|Completed
 Task-09|Personal Website|Working
 Task-10|CS50|Done (Not pushed yet)
 [Task-11](https://github.com/yasharora102/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
