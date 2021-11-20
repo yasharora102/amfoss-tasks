@@ -13,8 +13,8 @@
 [Task-06](https://github.com/yasharora102/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Failed
 [Task-07](https://github.com/yasharora102/amfoss-tasks/tree/main/task-07)|Rich Scraper|Completed
 [Task-08](https://github.com/yasharora102/amfoss-tasks/tree/main/task-08)|JSExplorer|Completed
-Task-09|Personal Website|Working
-Task-10|CS50|Done (Not pushed yet)
+[Task-09](https://github.com/yasharora102/amfoss-tasks/tree/main/task-09)|Personal Website|Completed
+[Task-10](https://github.com/yasharora102/amfoss-tasks/tree/main/task-10)|CS50|Completed
 [Task-11](https://github.com/yasharora102/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
 Task-12|BlockChain|Not Attempted till yet
 Task-13|Circuit Design|Not Attempted till yet
